@@ -1,4 +1,5 @@
 # Quantum-Machine-Learning
+credit : This code taken from microsoft half moon model ,available at Qsharp documentation page , with some modification and added preprocessing.
 It contains implementation for different QML model implementation (based on half moon with added preprocessing ).
 The training dataset used are given from codeforces summer 2020 coding competetion : https://codeforces.com/contest/1357
 solutions are available here: https://codeforces.com/blog/entry/79208
