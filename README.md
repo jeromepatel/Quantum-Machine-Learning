@@ -7,4 +7,4 @@ solutions are available here: https://codeforces.com/blog/entry/79208
 
 The preprocessing methods are coded directly at train.qs with given modes.
 I don't have uploaded trained model but It can be found at above solutions link or you can just train your own. data visualization is done in python and can be found at python notebook.
-Run this with command $dotnet run$ in powershell.
+Run this with command <pre>dotnet run</pre> in powershell.
