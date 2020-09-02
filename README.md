@@ -9,4 +9,4 @@ The preprocessing methods are coded directly at train.qs with given modes.
 I don't have uploaded trained model but It can be found at above solutions link or you can just train your own. data visualization is done in python and can be found at python notebook.
 
 Run file host.cs with command <pre>dotnet run</pre> in powershell.   
-Make sure to add same no of initial parameters in array as that of not of gates in model.
+Make sure to add same no of initial parameters in array as that of no. of gates in model.
